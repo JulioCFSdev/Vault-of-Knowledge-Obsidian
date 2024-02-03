@@ -1,8 +1,9 @@
 
 ### Conceito
 
-- Explique brevemente o que é uma linguagem de programação.
-- Destaque a importância da **sintaxe** e **semântica**.
+Python é uma linguagem de programação interpretada, orientada a objetos e de alto nível com semântica dinâmica.
+
+A sintaxe simples e fácil de aprender do Python enfatiza a legibilidade e, portanto, reduz o custo de manutenção do programa.
 
 ### Pontos Fortes
 

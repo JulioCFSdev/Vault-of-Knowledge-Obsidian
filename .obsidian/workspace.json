@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "dae34fd8bc7151b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "54e3fad6c0478818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c2f3f877fc33f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programing/Studies/Languages/Python/Introdução.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eae143204b38652e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a014c55c7fb4329b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5816d91bd3106c5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd436fa0bc4b0b6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca5b00eb9a18a899",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a7c58d20f422f63",
+    "type": "split",
+    "children": [
+      {
+        "id": "be546fd9cc770e8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b79c465c1d2185ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programing/Studies/Languages/Python/Introdução.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61101092918effed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programing/Studies/Languages/Python/Introdução.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99e6c91dee932bf1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b39ec2a222846f84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programing/Studies/Languages/Python/Introdução.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "zk-prefixer:Criar nova nota única": false
+    }
+  },
+  "active": "0c2f3f877fc33f69",
+  "lastOpenFiles": [
+    "Programing/Studies/Concepts/Basic Concepts.md",
+    "Programing/Studies/Languages/Python/Introdução.md",
+    "Programing/Studies/Concepts",
+    "Programing/Templates/Languages/Introdução.md",
+    "Sem título.md",
+    "Programing/Studies/Languages",
+    "Programing/Studies/Languages/Python",
+    "Programing/Studies",
+    "Programing/Welcome.md"
+  ]
+}
