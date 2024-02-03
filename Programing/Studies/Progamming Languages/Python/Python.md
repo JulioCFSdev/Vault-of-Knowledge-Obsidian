@@ -77,7 +77,7 @@ Python Suporta 3 paradigmas de programação: [[Imperativo]], [[Funcional]] e [[
 - [[Machine Learning]]
 	- [[SciKit-Learn]]
 	- [[TensorFlow]]
-	- [[`PyTorch]]
+	- [[PyTorch]]
 	- [[Keras]]
 	- [[Pandas]]
 	- [[Numpy]]

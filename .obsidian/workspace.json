@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programing/Studies/Languages/Python/Introdução.md",
+                "file": "Programing/Studies/Progamming Languages/Python/Lybraries/Pytest/Pytest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programing/Studies/Languages/Python/Introdução.md",
+                "file": "Programing/Studies/Progamming Languages/Python/Lybraries/Pytest/Pytest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programing/Studies/Languages/Python/Introdução.md",
+                "file": "Programing/Studies/Progamming Languages/Python/Lybraries/Pytest/Pytest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programing/Studies/Languages/Python/Introdução.md"
+                "file": "Programing/Studies/Progamming Languages/Python/Lybraries/Pytest/Pytest.md"
               }
             }
           }
@@ -151,14 +151,37 @@
   },
   "active": "0c2f3f877fc33f69",
   "lastOpenFiles": [
-    "Programing/Studies/Concepts/Basic Concepts.md",
-    "Programing/Studies/Languages/Python/Introdução.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Pytest/Fixture.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Pytest/Pytest.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Pytest",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Pandas.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Twisted Python.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Pyside.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Pyramid.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Pyqt.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Plone.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Paramiko.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Keras.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Kivy.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/IPython.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Flask.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Beautiful Soup.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Bottle.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Django CMS.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Feedparser.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Unittest.md",
+    "Programing/Studies/Progamming Languages/Python/Lybraries/PyUnit.md",
+    "Programing/Templates/Progamming Languages/Library/Library.md",
+    "Programing/Templates/Progamming Languages/Progamming Language.md",
+    "Programing/Studies/Internet Protocols/FTP.md",
+    "Programing/Studies/Marking Languages/Language/XML..md",
+    "Programing/Studies/Marking Languages/Language/HTML.md",
+    "Programing/Studies/Paradigms/Funcional.md",
+    "Programing/Studies/Paradigms/Orientado a Objeto.md",
+    "Programing/Templates/Progamming Languages/Library",
     "Programing/Studies/Concepts",
-    "Programing/Templates/Languages/Introdução.md",
-    "Sem título.md",
     "Programing/Studies/Languages",
     "Programing/Studies/Languages/Python",
-    "Programing/Studies",
-    "Programing/Welcome.md"
+    "Programing/Studies"
   ]
 }
