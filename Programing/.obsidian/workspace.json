@@ -11,12 +11,8 @@
             "id": "0e0232115d8cf267",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Languages/Introdução.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Languages/Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Languages/Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Languages/Introdução.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,40 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c7c4660e1663ff83",
+  "active": "0e0232115d8cf267",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Templates/Languages/Introdução.md",
+    "Studies/Progamming Languages/Python/Python.md",
+    "Studies/Concepts/linguagem de programação interpretada.md",
+    "Studies/Progamming Languages/Python/Lybraries/Selenium.md",
+    "Studies/Progamming Languages/Python/Lybraries/PyUnit.md",
+    "Studies/Progamming Languages/Python/Lybraries/Pytest.md",
+    "Studies/Progamming Languages/Python/Lybraries/Numpy.md",
+    "Studies/Progamming Languages/Python/Lybraries/Keras.md",
+    "Studies/Progamming Languages/Python/Lybraries/`PyTorch.md",
+    "Studies/Progamming Languages/Python/Lybraries/TensorFlow.md",
+    "Studies/Progamming Languages/Python/Lybraries/SciKit-Learn.md",
+    "Studies/Concepts/Machine Learning.md",
+    "Studies/Concepts/GUI.md",
+    "Studies/Progamming Languages/Python/Lybraries/Pyside.md",
+    "Studies/Progamming Languages/Python/Lybraries/Pyqt.md",
+    "Studies/Progamming Languages/Python/Lybraries/Kivy.md",
+    "Studies/Progamming Languages/Python/Lybraries/wxWidgets.md",
+    "Studies/Progamming Languages/Python/Lybraries/SciPy.md",
+    "Studies/Progamming Languages/Python/Lybraries/Pandas.md",
+    "Studies/Progamming Languages/Python/Lybraries/IPython.md",
+    "Studies/Paradigms/Orientado a Objeto.md",
+    "Orientado a Objeto.md",
+    "Studies/Progamming Languages/Python/Lybraries/Django CMS.md",
+    "Studies/Progamming Languages/Python/Lybraries/Plone.md",
+    "Studies/Progamming Languages/Python/Lybraries/Twisted Python.md",
+    "Studies/Progamming Languages/Python/Lybraries/Request.md",
+    "Studies/Progamming Languages/Python/Lybraries/Bottle.md",
+    "Studies/Paradigms",
+    "Studies/Internet Protocols",
+    "Studies/Data Structure",
+    "Studies/Marking Languages/Language",
+    "Studies/Marking Languages",
+    "Studies/Progamming Languages/Python/Lybraries",
     "Templates/Languages",
     "Templates"
   ]
