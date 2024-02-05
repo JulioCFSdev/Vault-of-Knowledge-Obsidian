@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "54e3fad6c0478818",
+        "id": "e1f361f8db1cf50d",
         "type": "tabs",
         "children": [
           {
-            "id": "0c2f3f877fc33f69",
+            "id": "f61408b64bc96277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programing/Studies/Progamming Languages/Python/Lybraries/Pytest/Pytest.md",
+                "file": "Programing/Studies/Progamming Languages/Python/Dicas e Funções em Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programing/Studies/Progamming Languages/Python/Lybraries/Pytest/Pytest.md",
+                "file": "Programing/Studies/Progamming Languages/Python/Dicas e Funções em Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programing/Studies/Progamming Languages/Python/Lybraries/Pytest/Pytest.md",
+                "file": "Programing/Studies/Progamming Languages/Python/Dicas e Funções em Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programing/Studies/Progamming Languages/Python/Lybraries/Pytest/Pytest.md"
+                "file": "Programing/Studies/Progamming Languages/Python/Dicas e Funções em Python.md"
               }
             }
           }
@@ -149,39 +149,43 @@
       "zk-prefixer:Criar nova nota única": false
     }
   },
-  "active": "0c2f3f877fc33f69",
+  "active": "f61408b64bc96277",
   "lastOpenFiles": [
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Pytest/Fixture.md",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Pytest/Pytest.md",
+    "Programing/Studies/Progamming Languages/Python/Python.md",
+    "Programing/Studies/Progamming Languages/Python/Dicas e Funções em Python.md",
+    "Programing/Studies/Concepts/Basic Concepts.md",
+    "Programing/Studies/Concepts/GUI.md",
+    "Programing/Studies/Tests/Automação em testes.md",
+    "Programing/Studies/Tests/syllabus_ct_tae_1.0br.pdf",
+    "Programing/Studies/Tests/Testes.md",
+    "Programing/Studies/Tests/Artifacts/Casos de Teste.md",
+    "Programing/Studies/Tests/Testes estruturais.md",
+    "Programing/Studies/Tests/Testes de relacionados à mudança..md",
+    "Programing/Studies/Tests/Artifacts/Plano de Teste.md",
+    "Programing/Studies/Tests/Artifacts",
+    "Programing/Studies/Tests/Artifacts/Ferramentas de Teste.md",
+    "Programing/Studies/Tests/Artifacts/Documentação de Teste.md",
+    "Programing/Studies/Tests/Artifacts/Relatório de Teste.md",
+    "Programing/Studies/Tests/Artifacts/Execução de Testes.md",
+    "Programing/Studies/Tests/Artifacts/Estratégias de Teste.md",
+    "Programing/Studies/Concepts/TDD.md",
+    "Programing/Studies/Concepts/Machine Learning.md",
+    "Programing/Studies/Concepts/linguagem de programação interpretada.md",
+    "Programing/Studies/Tests/Testes não-funcionais..md",
+    "Programing/Studies/Tests/Testes funcionais.md",
+    "Programing/Studies/Tests/Técnicas de Testes Funcionais/Teste de Sistema.md",
+    "Programing/Studies/Tests/Técnicas de teste de relação à mudança",
+    "Programing/Studies/Tests/Técnicas de Testes não-funcionais",
+    "Programing/Studies/Tests/Sem título.md",
+    "Programing/Studies/Tests/Técnicas de Testes Funcionais",
+    "Programing/Studies/Tests/Técnicas de Testes Estruturais",
+    "Programing/Studies/Tests/Técnicas de Testes Funcionais/Teste de Aceitação.md",
+    "Programing/Studies/Tests/Técnicas de teste de relação à mudança/Teste de Regressão.md",
+    "Programing/Studies/Tests/Técnicas de teste de relação à mudança/Teste de Confirmação.md",
+    "Programing/Studies/Tests/Técnicas de Testes não-funcionais/Teste de Segurança.md",
+    "Programing/Studies/Tests",
     "Programing/Studies/Progamming Languages/Python/Lybraries/Pytest",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Pandas.md",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Twisted Python.md",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Pyside.md",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Pyramid.md",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Pyqt.md",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Plone.md",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Paramiko.md",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Keras.md",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Kivy.md",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/IPython.md",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Flask.md",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Beautiful Soup.md",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Bottle.md",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Django CMS.md",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Feedparser.md",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Unittest.md",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/PyUnit.md",
-    "Programing/Templates/Progamming Languages/Library/Library.md",
-    "Programing/Templates/Progamming Languages/Progamming Language.md",
-    "Programing/Studies/Internet Protocols/FTP.md",
-    "Programing/Studies/Marking Languages/Language/XML..md",
-    "Programing/Studies/Marking Languages/Language/HTML.md",
-    "Programing/Studies/Paradigms/Funcional.md",
-    "Programing/Studies/Paradigms/Orientado a Objeto.md",
     "Programing/Templates/Progamming Languages/Library",
-    "Programing/Studies/Concepts",
-    "Programing/Studies/Languages",
-    "Programing/Studies/Languages/Python",
-    "Programing/Studies"
+    "Programing/Studies/Concepts"
   ]
 }

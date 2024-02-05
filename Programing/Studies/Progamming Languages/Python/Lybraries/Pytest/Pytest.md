@@ -1,4 +1,4 @@
-O [[Pytest]] é um framework de teste para Python que oferece uma abordagem feature-rich e baseada em plugins para testar código Python. Sua filosofia e recursos tornam a experiência de teste mais produtiva e agradável.
+O [[Pytest]] é um framework de [[Testes]] em Python que oferece uma abordagem feature-rich e baseada em plugins para testar código Python. Sua filosofia e recursos tornam a experiência de teste mais produtiva e agradável.
 
 Em comparação com o módulo [[Unittest]] padrão do Python, o [[Pytest]] apresenta vantagens significativas. Ele permite que tarefas comuns sejam realizadas com menos código, promovendo uma abordagem mais concisa e expressiva.
 
@@ -28,6 +28,30 @@ A maioria dos testes funcionais segue o modelo **Arrange-Act-Assert**:
 			 assert True 
 	```
 
+- Tags Embutidas
+	- O pytest fornece um grupo de tags que facilitam o nosso dia a dia em coisas em que são comuns em várias suítes de testes.
+		- @mark.skip: Para pular um teste
+		- @mark.skipif: Para pular um teste em determinado contexto
+		- @mark.xfail: É esperado que esse teste falhe em algum contexto
+		- @mark.usefixture: Falaremos depois sobre isso
+		- @mark.parametrize: Para parametrizar testes (próximo slide)
+
+- Mark.Parametrize
+	- Imagine que você gosta de fazer uma gama de testes somente alterando os valores  e checando seus resultados? O parametrize cria um esquema de "sub testes" onde cada parâmetro será executado uma única vez, mas o teste será executado múltiplas vezes.
+```python
+	from pytest import mark
+		  
+		 @mark.parametrize(
+			 'parametro, resultado_esperado',
+			 [(1, 3), (3, 5), (5, 7)]
+		 )
+		 def test_soma_mais_2(parametro, resultado_esperado):
+			 assert soma_mais_dois(parametro) == resultado_esperado
+```
+
+- [[Fixture]]
+	- A fixture é basicamente uma maneira de "entrar" em um contexto. Ou prover uma ferramenta que precisa ser executada "antes" dos testes.
+- 
 ### Comandos
 
 - pytest
@@ -45,6 +69,11 @@ A maioria dos testes funcionais segue o modelo **Arrange-Act-Assert**:
 - pytest -k
 	- Mostra a saída de testes no seguinte formato:
 		- "nome_dos_testes": Filtra resultados
+- pytest -rs
+	- rodar todos os testes e mostrar a razão pela qual o teste com a tag skip foi pulado
+- pytest -m "meu marcador"
+	- Testar apenas os testes que estiverem com o marcador "meu marcador"
+		- "meu marcador": Marcadores
 
 ### Tipos de Output do Sistema
 
