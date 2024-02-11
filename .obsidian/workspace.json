@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e1f361f8db1cf50d",
+        "id": "af62ce71280d9d67",
         "type": "tabs",
         "children": [
           {
-            "id": "f61408b64bc96277",
+            "id": "d3732733e42216bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programing/Studies/Tests/Automação em testes.md",
+                "file": "Programing/Studies/Progamming Languages/Java/Quiz de Configuração de Ambiente Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programing/Studies/Tests/Automação em testes.md",
+                "file": "Programing/Studies/Progamming Languages/Java/Quiz de Configuração de Ambiente Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programing/Studies/Tests/Automação em testes.md",
+                "file": "Programing/Studies/Progamming Languages/Java/Quiz de Configuração de Ambiente Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programing/Studies/Tests/Automação em testes.md"
+                "file": "Programing/Studies/Progamming Languages/Java/Quiz de Configuração de Ambiente Java.md"
               }
             }
           }
@@ -149,8 +149,26 @@
       "zk-prefixer:Criar nova nota única": false
     }
   },
-  "active": "f61408b64bc96277",
+  "active": "d3732733e42216bd",
   "lastOpenFiles": [
+    "Pasted image 20240211051903.png",
+    "Programing/Studies/Progamming Languages/Java/Atalhos do Eclipse.md",
+    "Programing/Studies/Progamming Languages/Java/Quiz de Configuração de Ambiente Java.md",
+    "Programing/Studies/Progamming Languages/Java/Configuração do Ambiente de Desenvolvimento Java.md",
+    "Pasted image 20240211050116.png",
+    "Pasted image 20240211050103.png",
+    "Pasted image 20240211050041.png",
+    "Pasted image 20240211045922.png",
+    "Programing/Studies/Progamming Languages/Java/O que é Java.md",
+    "Programing/Studies/Progamming Languages/Java/História do Java.md",
+    "().md",
+    "Programing/Studies/Progamming Languages/Java/Melhores IDEs para Java.md",
+    "Programing/Studies/Progamming Languages/Java/Maven.md",
+    "Programing/Studies/Progamming Languages/Java/Sem título",
+    "README.md",
+    "Programing/Studies/Progamming Languages/Python/O que é Python.md",
+    "Programing/Studies/Tests/Automação em testes.md",
+    "Programing/Studies/Progamming Languages/Java",
     "Programing/Studies/Tests/Testes.md",
     "Programing/Studies/Tests/Técnicas de Testes Estruturais/Teste de Unidade.md",
     "Programing/Studies/Tests/Técnicas de Testes Funcionais/Teste de Aceitação.md",
@@ -160,32 +178,18 @@
     "Programing/Studies/Concepts/linguagem de programação interpretada.md",
     "Programing/Studies/Concepts/Basic Concepts.md",
     "Programing/Studies/Progamming Languages/Python/Dicas e Funções em Python.md",
-    "Programing/Studies/Progamming Languages/Python/Python.md",
     "Programing/Studies/Progamming Languages/Python/Lybraries/Pytest/Pytest.md",
     "Programing/Studies/Concepts/GUI.md",
-    "Programing/Studies/Tests/Automação em testes.md",
     "Programing/Studies/Tests/syllabus_ct_tae_1.0br.pdf",
     "Programing/Studies/Tests/Artifacts/Casos de Teste.md",
     "Programing/Studies/Tests/Testes estruturais.md",
     "Programing/Studies/Tests/Testes de relacionados à mudança..md",
-    "Programing/Studies/Tests/Artifacts/Plano de Teste.md",
     "Programing/Studies/Tests/Artifacts",
-    "Programing/Studies/Tests/Artifacts/Ferramentas de Teste.md",
-    "Programing/Studies/Tests/Artifacts/Documentação de Teste.md",
-    "Programing/Studies/Tests/Artifacts/Relatório de Teste.md",
-    "Programing/Studies/Tests/Artifacts/Execução de Testes.md",
-    "Programing/Studies/Tests/Artifacts/Estratégias de Teste.md",
-    "Programing/Studies/Tests/Testes não-funcionais..md",
-    "Programing/Studies/Tests/Testes funcionais.md",
     "Programing/Studies/Tests/Técnicas de teste de relação à mudança",
     "Programing/Studies/Tests/Técnicas de Testes não-funcionais",
-    "Programing/Studies/Tests/Sem título.md",
     "Programing/Studies/Tests/Técnicas de Testes Funcionais",
     "Programing/Studies/Tests/Técnicas de Testes Estruturais",
-    "Programing/Studies/Tests/Técnicas de teste de relação à mudança/Teste de Regressão.md",
     "Programing/Studies/Tests",
-    "Programing/Studies/Progamming Languages/Python/Lybraries/Pytest",
-    "Programing/Templates/Progamming Languages/Library",
-    "Programing/Studies/Concepts"
+    "Programing/Studies/Progamming Languages/Python/Lybraries/Pytest"
   ]
 }
