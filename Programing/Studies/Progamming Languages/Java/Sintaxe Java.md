@@ -289,9 +289,30 @@ continue: pula a execução do código que viria após essa linha e vai para pr�
 
 ### Terminal e Argumentos (Entradas e Saída de dados)
 
+#### Argumentos
 
+Quando executamos uma classe que contenha o método main, o mesmo permite que passemos um array [] de argumentos do tipo String. Logo podemos após a definição da classe a ser executada informar estes parâmetro, exemplos:
 
+> java MinhaClasse argumentoUm argumentoDois
 
+``` Java
+public static void main(String[] args) {
+        
+        String name = args[0];
+        String lastName = args[1];
+        int age = Integer.valueOf(args[2]);
+        double height = Double.valueOf(args[3]);
+
+        System.out.println("Hello, my name is " + name + " " + lastName);
+        System.out.println("My age is " + age);
+        System.out.println("My height is " + height);
+    }
+```
+#### Scanner
+
+Nos exemplos anteriores percebemos que podemos receber dados digitados pelo usuário do nosso sistema, porém tudo precisa estar em uma linha e também é necessário informar os valores nas posições correspondentes. Esta abordagem pode deixar margens de execução com erro do nosso programa. Para isso, com a finalidade de deixar as nossas entradas de dados mais seguras agora vamos receber estes dados via Scanner.
+
+A classe Scanner permite que o usuário tenha uma interação mais assertiva com o nosso programa, veja como vamos mudar o nosso programa AboutMe para deixar mais intuitivo aos usuários.
 
 ### Documentação Java
 
