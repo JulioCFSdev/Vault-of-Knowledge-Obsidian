@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/Contexto para desenvolvimento web.md",
+                "file": "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Springboot.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/Contexto para desenvolvimento web.md",
+                "file": "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Springboot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/Contexto para desenvolvimento web.md",
+                "file": "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Springboot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/Contexto para desenvolvimento web.md"
+                "file": "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Springboot.md"
               }
             }
           }
@@ -151,22 +151,27 @@
   },
   "active": "d3732733e42216bd",
   "lastOpenFiles": [
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/Overview Spring Framework.md",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/Arquitetura de três camadas em Spring Boot.md",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/Contexto para desenvolvimento web.md",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/imgs/Pasted image 20240222223530.png",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/imgs/Pasted image 20240222224235.png",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/imgs/Pasted image 20240222214406.png",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/imgs/Pasted image 20240222222500.png",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/imgs/Pasted image 20240222222434.png",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/imgs/Pasted image 20240222222120.png",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/imgs/Pasted image 20240222221823.png",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/imgs/Pasted image 20240222221440.png",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/imgs/Pasted image 20240222215845.png",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/imgs/Pasted image 20240222214544.png",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3/imgs",
+    "Pasted image 20240223033551.png",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/imgs/Pasted image 20240223030250.png",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/imgs/Pasted image 20240223030514.png",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/imgs",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Springboot.md",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Framework.md",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/imgs/Pasted image 20240223031518.png",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/imgs/Pasted image 20240223031300.png",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/imgs/Pasted image 20240223031112.png",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/imgs/Pasted image 20240223030942.png",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Contexto para desenvolvimento web.md",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Overview Spring Framework.md",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Arquitetura de três camadas em Spring Boot.md",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/imgs/Pasted image 20240222223530.png",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/imgs/Pasted image 20240222224235.png",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/imgs/Pasted image 20240222214406.png",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/imgs/Pasted image 20240222222500.png",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/imgs",
     "Programing/Studies/Progamming Languages/Java/Maven.md",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring Boot 3",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3",
     "Programing/Studies/Progamming Languages/Java/Frameworks",
     "Programing/Studies/Progamming Languages/Java/Melhores IDEs para Java.md",
     "Programing/Studies/Progamming Languages/Java/O que é Java.md",
@@ -189,12 +194,8 @@
     "Programing/Studies/Tests/Técnicas de Testes Funcionais/Teste de Sistema.md",
     "Programing/Studies/Concepts/TDD.md",
     "Programing/Studies/Concepts/Machine Learning.md",
-    "Programing/Studies/Concepts/linguagem de programação interpretada.md",
-    "Programing/Studies/Concepts/Basic Concepts.md",
     "Programing/Studies/Tests/syllabus_ct_tae_1.0br.pdf",
     "Programing/Studies/Tests/Artifacts",
-    "Programing/Studies/Tests/Técnicas de teste de relação à mudança",
-    "Programing/Studies/Tests/Técnicas de Testes não-funcionais",
-    "Programing/Studies/Tests/Técnicas de Testes Funcionais"
+    "Programing/Studies/Tests/Técnicas de teste de relação à mudança"
   ]
 }
