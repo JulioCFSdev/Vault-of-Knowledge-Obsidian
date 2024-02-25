@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Springboot.md",
+                "file": "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Swagger/Swagger.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Springboot.md",
+                "file": "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Swagger/Swagger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Springboot.md",
+                "file": "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Swagger/Swagger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Springboot.md"
+                "file": "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Swagger/Swagger.md"
               }
             }
           }
@@ -151,24 +151,30 @@
   },
   "active": "d3732733e42216bd",
   "lastOpenFiles": [
-    "Pasted image 20240223033551.png",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Web/Spring Web.md",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Swagger/Swagger.md",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Swagger",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Web",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Conexão com Postgresql.md",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Contexto para desenvolvimento web.md",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Springboot.md",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Overview Spring Framework.md",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Arquitetura de três camadas em Spring Boot.md",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Data JPA/Spring Data JPA.md",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Framework.md",
+    "Pasted image 20240224000852.png",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Data JPA",
+    "Pasted image 20240224000000.png",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/imgs/Pasted image 20240223033551.png",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/imgs/Pasted image 20240223234311.png",
+    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/imgs/Pasted image 20240223234806.png",
     "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/imgs/Pasted image 20240223030250.png",
     "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/imgs/Pasted image 20240223030514.png",
     "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/imgs",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Springboot.md",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Framework.md",
     "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/imgs/Pasted image 20240223031518.png",
     "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/imgs/Pasted image 20240223031300.png",
     "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/imgs/Pasted image 20240223031112.png",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/imgs/Pasted image 20240223030942.png",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Contexto para desenvolvimento web.md",
     "Programing/Studies/Progamming Languages/Java/Frameworks/Spring",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Overview Spring Framework.md",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/Arquitetura de três camadas em Spring Boot.md",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/imgs/Pasted image 20240222223530.png",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/imgs/Pasted image 20240222224235.png",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/imgs/Pasted image 20240222214406.png",
-    "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/imgs/Pasted image 20240222222500.png",
     "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3/imgs",
     "Programing/Studies/Progamming Languages/Java/Maven.md",
     "Programing/Studies/Progamming Languages/Java/Frameworks/Spring/Spring Boot 3",
@@ -190,12 +196,6 @@
     "Programing/Studies/Progamming Languages/Java",
     "Programing/Studies/Tests/Testes.md",
     "Programing/Studies/Tests/Técnicas de Testes Estruturais/Teste de Unidade.md",
-    "Programing/Studies/Tests/Técnicas de Testes Funcionais/Teste de Aceitação.md",
-    "Programing/Studies/Tests/Técnicas de Testes Funcionais/Teste de Sistema.md",
-    "Programing/Studies/Concepts/TDD.md",
-    "Programing/Studies/Concepts/Machine Learning.md",
-    "Programing/Studies/Tests/syllabus_ct_tae_1.0br.pdf",
-    "Programing/Studies/Tests/Artifacts",
-    "Programing/Studies/Tests/Técnicas de teste de relação à mudança"
+    "Programing/Studies/Tests/Técnicas de Testes Funcionais/Teste de Aceitação.md"
   ]
 }

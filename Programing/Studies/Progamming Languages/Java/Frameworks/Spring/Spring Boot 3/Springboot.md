@@ -36,3 +36,64 @@ Spring-boot-starter-*
 
 ### Beans vs Components
 
+### Scopes - Singleton e Prototype
+
+### Properties Value
+
+### Configuration Properties
+
+### ORM (Object-Relational Mapping)
+
+Object-Relational Mapping, Em português, mapeamento objeto-relacional, é um recurso para aproximar o paradigma da orientação a objetos ao contexto de banco de dados relacional.
+
+O uso de ORM é realizado através do mapeamento de objeto para uma tabela por uma biblioteca ou Framework.
+
+![[Pasted image 20240223234311.png]]
+
+### JPA (Java Persistence Aplication)
+
+JPA é uma especificação baseado em interfaces, que através de um framework realiza operações de persistência de objetos em Java.
+
+
+![[Pasted image 20240223234806.png]]
+
+
+### Mapeamento do JPA
+
+Vamos conhecer os aspectos das anotações de mapeamento do JPA:
+
+- Identificação
+- Definição
+- Relacionamento
+- Herança
+- Persistência
+
+
+```Java
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="user_tb")
+public class Usuario{
+
+	@Id
+	@GeneratedValue(strategy=GenerationType.AUTO)
+	@Column(name="user_id")
+	private Long id;
+
+	private String name;
+
+	@Column(name="user_login")
+	private String login;
+
+	@Column(name="user_password")
+	private String password;
+}
+```
+
+![[Pasted image 20240224000000.png]]
